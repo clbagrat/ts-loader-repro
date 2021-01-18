@@ -1,0 +1,18 @@
+{
+  "name": "ts-loader-repro",
+  "version": "1.0.0",
+  "description": "reproduce an issue with resolveJsonModule ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "bagrat gobedashvili",
+  "license": "ISC",
+  "dependencies": {
+    "ts-loader": "8.0.14",
+    "typescript": "^4.1.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
