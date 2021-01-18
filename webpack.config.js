@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: [],
   resolve: {
-    extensions: [ ".ts", ".tsx", ".js"]
+    extensions: [ ".ts", ".tsx", ".js", ".json", "JSON"]
   },
   optimization: {
     minimize: true
